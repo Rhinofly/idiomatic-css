@@ -124,6 +124,7 @@ in useful diffs and blames.
 * Use single or double quotes consistently. Preference is for single quotes,
   e.g., `content: ''`.
 * Quote attribute values in selectors, e.g., `input[type='checkbox']`.
+* Use single qoutes instead of dubble qoutes.
 * _Where allowed_, avoid specifying units for zero-values, e.g., `margin: 0`.
 * Include a space after each comma in comma-separated property or function
   values.
